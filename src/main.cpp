@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
 	init();
-	door();
+
 	showBoard();
 	return 0;
 }
